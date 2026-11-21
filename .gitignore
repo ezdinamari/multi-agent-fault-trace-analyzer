@@ -1,7 +1,16 @@
+# Generated experiment results
+results/
+
+# Python cache
 __pycache__/
 *.py[cod]
-.venv/
-venv/
 .pytest_cache/
-.coverage
-results/*.json
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
